@@ -44,7 +44,7 @@
 + Java와 달리 **간결한 문법**, **코루틴을 비롯한 다양한 기능 지원**
 
 ### IDE 설치
-Kotlin을 통해 프로그램을 짜기 위해서 **통합개발환경(IDE)**를 설치해봅시다!
+Kotlin을 통해 프로그램을 짜기 위해서 **통합개발환경(IDE)**을 설치해봅시다!
 Kotlin은 다양한 IDE에서 지원되지만, 가장 추천하는 것은 Kotlin을 개발한 JetBrians사에서 나온 **IntelliJ IDEA**입니다.
 
 IntelliJ IDEA는 무료버전인 **Community** 버전과 유료버전인 **Ultimate** 버전으로 나뉘는데, 학생 인증을 하셨다면 유료버전도 공짜로 쓸 수 있지만, 이 과정이 상당히 오래걸리므로 미리 학생 인증을 하지 않으셨다면 무료버전 **Community**를 설치해주세요.
@@ -254,6 +254,6 @@ https://www.acmicpc.net/problem/1978: 소수 찾기 (실5)
 <a name="footnote_1">1</a>: 설명의 편의를 위해 이렇게 서술했지만, 정확한 서술은 아닙니다. 자세한 내용을 알고싶으시다면 [프로그래밍 패러다임](https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84 "프로그래밍 패러다임")을 찾아보세요.
 <a name="footnote_2">2</a>: **변경할 수 없는 변수**에 상수라는 이름을 사용하지 않는 것은, 변수에서 **내부 불변성**과 **대입 가능성**은 분리되어있는 개념이기 때문입니다.
 ##### 도움을 주신 분들
-+ [RanolP](https://github.com/RanolP) : 부족한 자료에 많은 훈수를 해주셨습니다.
++ [RanolP](https://github.com/RanolP) : 부족한 자료에 많은 조언을 해주셨습니다.
 + [finalchild (박재온)](https://github.com/finalchild "finalchild (박재온)") : val이 '상수'가 아닌 이유에 대해 설명해주셨습니다.
 + [Dayo (김지민)](https://github.com/dayo05) : 코드 이슈를 찾아주었습니다.
